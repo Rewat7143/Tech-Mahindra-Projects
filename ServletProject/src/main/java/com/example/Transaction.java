@@ -1,4 +1,4 @@
-package com.example;
+package servlets.example;
 
 public class Transaction {
     private int transactionId;
