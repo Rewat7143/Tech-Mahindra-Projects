@@ -1,4 +1,4 @@
-package com.example;
+package servlets.example;
 
 import java.io.IOException;
 import java.io.PrintWriter;
