@@ -7,7 +7,7 @@ import java.util.List;
 public class DatabaseUtil {
     private static final String URL = "jdbc:mysql://localhost:3306/userdb"; 
     private static final String USER = "root"; 
-    private static final String PASSWORD = "Varma@123";
+    private static final String PASSWORD = "Mysql@123";
     
     static {
         try {
