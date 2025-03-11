@@ -1,4 +1,4 @@
-package com.example;
+package servlets.example;
 
 import java.sql.*;
 import java.util.ArrayList;
